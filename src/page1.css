@@ -23,3 +23,14 @@ p {
     margin-top: 60px;
 
 }
+
+/*50 pixeles de espaciado y maximo 3 columnas
+
+
+*/
+.columnas{
+    columns: 4;
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-color: darkgreen;
+}
